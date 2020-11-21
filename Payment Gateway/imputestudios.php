@@ -16,7 +16,7 @@
         <nav>
             <a href="imputestudios.php">HOME</a>
             <a href="checkout.php">DONATE TO THE GAME</a>
-            <a href="aboutus.html">ABOUT US</a>
+            <a href="#">ABOUT US</a>
         </nav>
         <main>
         <iframe width="560" height="315" src="https://www.youtube.com/embed/DDx__QKDyaM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
